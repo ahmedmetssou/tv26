@@ -41,10 +41,10 @@
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
 
-   "admob_publisher_id": "pub-3940256099942544",
-  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+   "admob_publisher_id": "pub-8516185011430226",
+  "admob_app_id": "ca-app-pub-8516185011430226~9476361927",
+  "admob_banner_unit_id": "ca-app-pub-8516185011430226/4487909452",
+  "admob_interstitial_unit_id": "ca-app-pub-8516185011430226/6954170554",
   "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
   "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
 
