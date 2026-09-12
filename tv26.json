@@ -26,9 +26,9 @@
 
   "ads": {
     "id": 1,
-    "ad_status": "off",
-    "ad_type": "none",
-    "backup_ads": "none",
+    "ad_status": "on",
+    "ad_type": "admob",
+    "backup_ads": "admob",
     "admob_publisher_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
