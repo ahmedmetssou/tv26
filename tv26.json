@@ -19,6 +19,14 @@
     "redirect_url": "https://play.google.com/store/apps/details?id=app.yanis.tv.new"
   },
   
+{
+  "article_image_banner": {
+    "enabled": true,
+    "imageurl": "https://example.com/banner.jpg",
+    "imgurlredrict": "https://example.com/destination"
+  }
+}
+
   "ads": {
       
     "readMe" :"admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin (for MAX) - ironsource - wortise"  ,
