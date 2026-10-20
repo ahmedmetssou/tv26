@@ -22,7 +22,7 @@
 },
   
   "article_image_banner": {
-    "enabled": true,
+    "enabled": false,
     "imageurl": "https://images.g2crowd.com/uploads/product/image/26c7ceed701ae8cc66739b2a397fb17f/pdf-expert.png",
     "imgurlredrict": "https://play.google.com/store/apps/details?id=com.pdfex.expert"
   },
