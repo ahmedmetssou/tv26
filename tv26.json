@@ -11,6 +11,16 @@
     "status": false,
     "redirect_url": "https://play.google.com/store/apps/details?id=app.yasser.tv.new"
   },
+"force_update": {
+  "enabled": true,
+  "min_version_code": 4,
+  "latest_version_code": 4,
+  "title": "Update Required",
+  "message": "A new version of Yasser TV is available. Please update to continue using the app.",
+  "update_button": "Update Now",
+  "store_url": "https://play.google.com/store/apps/details?id=app.yasser.tv.new"
+},
+  
   "article_image_banner": {
     "enabled": true,
     "imageurl": "https://images.g2crowd.com/uploads/product/image/26c7ceed701ae8cc66739b2a397fb17f/pdf-expert.png",
