@@ -24,7 +24,7 @@
     "privacy_policy": "<h2>Privacy Policy - Yasser TV</h2><p>Yasser TV may use third-party services including Google AdMob and Firebase. These services may process device identifiers, app interactions, approximate location and diagnostic information for advertising, analytics, fraud prevention and app performance. For details, see <a href=\"https://policies.google.com/privacy\">Google Privacy Policy</a> and <a href=\"https://firebase.google.com/support/privacy\">Firebase Privacy</a>.</p><p>Yasser TV does not require account registration. Third-party links and streaming sources may have their own privacy practices.</p><p>We may update this policy. Please refer to the privacy policy page published on our official developer website for the complete current policy and contact information.</p>"
   },
   "adsbridge": {
-    "enabled": true,
+    "enabled": false,
     "test_mode": true,
     "mock_ads": false,
     "levelplay_app_key": "25b63cf85",
